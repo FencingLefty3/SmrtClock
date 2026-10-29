@@ -1,1 +1,1 @@
-# SMRTClock Hardware Prodject
+# SMRTClock Hardware Project
