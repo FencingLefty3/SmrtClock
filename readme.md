@@ -1,6 +1,8 @@
 # SMRTClock Hardware Project
 
-![PCB](https://github.com/FencingLefty3/SmrtClock/blob/main/PBCFiles/PCBScreenshot.png?raw=true)
+This is a project for Stardance blair! I made it with, KiCAD, and AutoCAD. ![PCB](https://github.com/FencingLefty3/SmrtClock/blob/main/PBCFiles/PCBScreenshot.png?raw=true)
+
+
 ![Schematic](https://github.com/FencingLefty3/SmrtClock/blob/main/PBCFiles/schematicScreenshot.png?raw=true)
 ![CAD](https://github.com/FencingLefty3/SmrtClock/blob/main/CADFiles/Screenshot%20-%20CAD.png?raw=true)
 
