@@ -1,7 +1,7 @@
 # SMRTClock Hardware Project
 
-![PCB](image-url)](https://github.com/FencingLefty3/SmrtClock/blob/main/PBCFiles/PCBScreenshot.png?raw=true)
-![Schematic](image-url)](https://github.com/FencingLefty3/SmrtClock/blob/main/PBCFiles/schematicScreenshot.png?raw=true)
+![PCB](https://github.com/FencingLefty3/SmrtClock/blob/main/PBCFiles/PCBScreenshot.png?raw=true)
+![Schematic](https://github.com/FencingLefty3/SmrtClock/blob/main/PBCFiles/schematicScreenshot.png?raw=true)
 ![CAD](https://github.com/FencingLefty3/SmrtClock/blob/main/CADFiles/Screenshot%20-%20CAD.png?raw=true)
 
 
