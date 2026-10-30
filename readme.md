@@ -13,7 +13,7 @@ This is a project for Stardance blair! I made it with, KiCAD, and AutoCAD.
 
 ## Bill of Meterials
 
-Quantity	Designation
+ 
 
 1	        Buzzer
 
