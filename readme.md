@@ -13,7 +13,9 @@ This is a project for Stardance blair! I made it with, KiCAD, and AutoCAD.
 
 ## Bill of Meterials
 
- 
+1         Rotary dial cap.
+
+2         Keycaps of Choosing
 
 1	        Buzzer
 
