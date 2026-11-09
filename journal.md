@@ -35,6 +35,11 @@ Started creating the CAD model for the project in Fusion. Had to switch to AutoC
 
 <img width="1417" height="747" alt="Screenshot 2026-10-29 150245" src="https://github.com/user-attachments/assets/e61e1449-5150-49d9-b329-e770eccd0cc0" />
 
+# Firmware :: October ~25:
+
+Created a basic firmware for the device. Imported addons for the microcontroler.
+
+**Time spent ~2 hour**
 
 # ReDesigning PCB :: October 29:
 
