@@ -1,6 +1,7 @@
 # SMRTClock Hardware Project
 
-This is a project for Stardance blair! I made it with, KiCAD, and AutoCAD.
+
+This a smart/display clock run by a esp32. With a custom designed PCB in KiCAD, and a housing designed in AutoCAD.
 
 ## Images
 
