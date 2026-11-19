@@ -1,6 +1,6 @@
 # SMRTClock Hardware Project
 
-This is a project for Stardance blair! I made it with, KiCAD, and AutoCAD. 
+This is a project for Stardance blair! I made it with, KiCAD, and AutoCAD.
 
 ## Images
 
@@ -11,8 +11,7 @@ This is a project for Stardance blair! I made it with, KiCAD, and AutoCAD.
 
 
 
-## Bill of Meterials
-
+## Bill of Materials
 1         Rotary dial cap.
 
 2         Keycaps of Choosing
