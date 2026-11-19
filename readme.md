@@ -1,7 +1,7 @@
 # SMRTClock Hardware Project
 
 
-This a smart/display clock run by a esp32. With a custom designed PCB in KiCAD, and a housing designed in AutoCAD.
+An opensource smart/display clock project run by a esp32. With a custom designed PCB in KiCAD, and a housing designed in AutoCAD.
 
 ## Images
 
